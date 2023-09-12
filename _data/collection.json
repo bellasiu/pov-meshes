@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "Point of View in Meshes of the Afternoon" ] },
+    "summary": { "en": [ "Annotations on point of view shots in Meshes of the Afternoon" ] },
+    "items": [
+    ]
+}
